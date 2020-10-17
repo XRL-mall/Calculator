@@ -1,3 +1,3 @@
 # Calculator
-Author JerryYang  
-a easy Calculator by python 3.7.3
+Coded by JerryYang  
+an easiest Calculator by python 3.7.3
